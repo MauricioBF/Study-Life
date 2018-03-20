@@ -105,6 +105,18 @@ a {
   right: 10%;
   padding: 2%;
 }
+.img {
+  width: 40%;
+  height: 40%;
+  position: relative;
+  padding: 2%;
+}
+.img2 {
+  width: 20%;
+  height: 20%;
+  position: relative;
+  padding: 2%;
+}
 .but-left {
   float: left;
   width: 50%;
@@ -114,10 +126,11 @@ a {
   width: 50%;
 }
 .img-mid {
-  width: 35%;
-  height: 35%;
+  
+  width: 130px;
+  height: 130px;
   padding: 2%;
-  transform: translate(90%, 0%);
+  transform: translate(20%, 0%);
 }
 #grafico {
   display: inline-block;
